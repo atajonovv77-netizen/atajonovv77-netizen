@@ -60,10 +60,10 @@
 </p>
 
 <p align="center">
-  <img src="https://<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:1e3c72&height=220&section=header&text=Salom,%20men%20[Ismingiz]!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F7,100:1e3c72&height=220&section=header&text=Salom,%20men%20[Temur]!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Robototexnika+ixlosmandi+%F0%9F%A4%96;Arduino+%7C+ESP32+%7C+Python;LEGO+Spike+va+Makeblock+bilan+ishlayman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Robototexnika+ixtrochisiman+%F0%9F%A4%96;Arduino+%7C+ESP32+%7C+Python;LEGO+Spike+va+Makeblock+bilan+ishlayman" alt="Typing SVG" />
 </p>
 
 <p align="center">
